@@ -1,0 +1,16 @@
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.exe
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.deps.json
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.runtimeconfig.json
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.runtimeconfig.dev.json
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.dll
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\ref\Varibles.dll
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\bin\Debug\net5.0\Varibles.pdb
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.AssemblyInfo.cs
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.csproj.CoreCompileInputs.cache
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.dll
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\ref\Varibles.dll
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.pdb
+C:\Users\bellt\Desktop\repos7\Varibles\Varibles\obj\Debug\net5.0\Varibles.genruntimeconfig.cache
